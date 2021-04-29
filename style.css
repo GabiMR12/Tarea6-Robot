@@ -1,0 +1,41 @@
+#cara{
+    width: 380px;
+    height: 380px;
+    background-color: lightgray;
+    padding: 0.5em;
+    border: 15px solid black;
+}
+
+.ojos{
+    width: 120px;
+    height: 65px;
+    background-color: rgb(85, 170, 85);
+    padding: 0.5em;
+    border: 7px solid black;
+    display: inline-block;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 80px;
+}
+
+#boca{
+    width: 300px;
+    height: 65px;
+    background-color: white;
+    padding: 0.5em;
+    border: 7px solid black; 
+    position: relative;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.dientes{
+    width: 35px;
+    height: 50px;
+    background-color: rgb(204, 202, 202);
+    display: inline-block;  
+    position: relative;
+    left: 25px;
+    top: 3px;
+    margin: 6px;
+}
